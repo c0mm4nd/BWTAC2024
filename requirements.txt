@@ -1,0 +1,6 @@
+requests
+seaborn
+matplotlib
+base58
+clickhouse-connect
+pandas
